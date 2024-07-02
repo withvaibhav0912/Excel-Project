@@ -5,3 +5,4 @@
 - Purpose of the study is to initially analyse the data and draw certain information from it .
 
 
+![image](https://github.com/withvaibhav0912/Excel-Project/assets/160229711/3c5ca2de-81ec-4ba4-9140-2d2ab56f906c)
