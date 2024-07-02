@@ -1,4 +1,4 @@
-# Excel-Project
+# Zomato Data-set Analysis-Project
 - Zomato team wants to expand own business, opening new restaurants in different country to capture the maximum customers of 
   different prize range and cuisines according to country. 
 - A dataset of food industry(restaurants) is Analysed and insights & information is derived from the data .
